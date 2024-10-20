@@ -2,6 +2,7 @@
   - Al Abrir el proyecto debe ejecutar en la terminal de VisualStudioCode el siguiente comando "npm run dev"
     Esto abrira un localHost el cual debe clikear y sera redirigido a una pagina de su Internet Browser y ahi
     encontrara el trabajo realizado
+  - Ejecutar en la terminal "npm install sweetalert2", esto sirve para poder visualizar efectos de alerta en la pagina
   - Para poder visualizar al completo las funcionalidades del sistema, debera crear ciertos anuncions de Menu. Para ello
       1- Tocar el boton Agregar Elemento
       2- Ingresar los datos correspondientes del formulario (le dejo algunos a continuacion) 
